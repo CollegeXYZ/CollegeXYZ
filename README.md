@@ -1,5 +1,3 @@
-# CollegeX
-
 ![CollegeX Logo](https://github.com/CollegeXYZ/CollegeXYZ/assets/167182559/fa455166-024a-4699-9cb4-0933ca46baae)
 
 CollegeX는 IT 교육을 선도하는 혁신적인 기업입니다. 우리는 기술 발전과 함께 성장하는 인재를 양성하고, 디지털 시대를 이끌어갈 리더를 육성하는 것을 목표로 합니다.
